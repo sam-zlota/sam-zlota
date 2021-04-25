@@ -1,5 +1,5 @@
 # About Me
- I am currently an undergraduate at Northeastern University studying computer science with a concentration in Artificial Intelligence. I love optimization, efficency, and elegance. 
+I am currently an undergraduate at Northeastern University studying computer science with a concentration in Artificial Intelligence. I love optimization, efficency, and elegance. 
 
 # Project Spotlight
 
