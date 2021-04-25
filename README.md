@@ -1,4 +1,13 @@
-### Hi there 👋
+# About Me:
+
+
+# Projects
+
+- AI/ML 
+- Systems 
+- OOD/Software 
+
+
 
 <!--
 **sam-zlota/sam-zlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
