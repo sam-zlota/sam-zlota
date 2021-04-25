@@ -1,4 +1,4 @@
-# Project Overview
+# Overview of Projects
 
 ## AI/ML (Python)
  - [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
