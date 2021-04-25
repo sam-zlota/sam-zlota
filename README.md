@@ -1,7 +1,4 @@
-# About Me
-I am currently an undergraduate at Northeastern University studying computer science with a concentration in Artificial Intelligence. I love optimization, efficency, and elegance. 
-
-# Project Spotlight
+# Project Overview
 
 ## AI/ML (Python)
  - #### [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
