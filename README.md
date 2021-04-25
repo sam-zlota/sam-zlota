@@ -5,7 +5,9 @@ I am currently an undergraduate at Northeastern University studying computer sci
 
 ### AI/ML (Python)
   #### [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
-    - a chess engine built on the adversarial search minimax algorithm with alphabeta pruning that selects moves using a logistic regression model for Artificial Intelligence (CS 4100) final project
+    a chess engine built on the adversarial search minimax algorithm with 
+    alphabeta pruning that selects moves using a logistic regression
+    model for Artificial Intelligence (CS 4100) final project
   ####[COVID Lung Scan Classifier using CNNs](https://github.com/sam-zlota/covid-lung-scan-classifer)
     - Generated image classification model from dataset of 2431 COVID and 2166 NON-COVID CT scans using deep transfer learning and convolutional neural networks with best scores on test set: recall .98, F1 .91, accuracy .90, precision .90, and specificity .89. 
   ####[Spotify Song Popularity Predictor](https://github.com/sam-zlota/spotify-song-popularity-predictor)
