@@ -1,10 +1,11 @@
-# About Me:
-
+# About Me
+ I am currently an undergraduate at Northeastern University studying computer science with a concentration in Artificial Intelligence.
 
 # Project Spotlight
 
 ### AI/ML (Python)
   - [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
+    a chess engine built on the adversarial search minimax algorithm with alphabeta pruning that selects moves using a logistic regression model for Artificial Intelligence (CS 4100) final project
   - [COVID Lung Scan Classifier using CNNs](https://github.com/sam-zlota/covid-lung-scan-classifer)
   - [Spotify Song Popularity Predictor](https://github.com/sam-zlota/spotify-song-popularity-predictor)
 ### Systems Design(C, X86-64 Assembly)
