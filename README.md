@@ -8,6 +8,7 @@
  - [FUSE Filesystem](https://github.com/sam-zlota/filesystem)
  - [Memory Allocator](https://github.com/sam-zlota/Memory-Allocator)
  - [Unix-Shell](https://github.com/sam-zlota/unix-shell)
+ - [Parallel Distributed Sort](https://github.com/sam-zlota/parallel-sort)
  - [C Data Structures](https://github.com/sam-zlota/data-strcutures)
  - [Simple Assembly Programs](https://github.com/sam-zlota/assembly-programs)
 ## OOD/Software (Java)
