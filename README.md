@@ -5,14 +5,14 @@
  - [COVID Lung Scan Classifier using CNNs](https://github.com/sam-zlota/covid-lung-scan-classifer)
  - [Spotify Song Popularity Predictor](https://github.com/sam-zlota/spotify-song-popularity-predictor)
 ## Systems Design(C, X86-64 Assembly)
- - [FUSE Filesystem](https://github.com/sam-zlota/filesystem)
+ - [Filesystem](https://github.com/sam-zlota/filesystem)
  - [Memory Allocator](https://github.com/sam-zlota/Memory-Allocator)
  - [Unix-Shell](https://github.com/sam-zlota/unix-shell)
  - [Parallel Distributed Sort](https://github.com/sam-zlota/parallel-sort)
  - [C Data Structures](https://github.com/sam-zlota/data-strcutures)
  - [Simple Assembly Programs](https://github.com/sam-zlota/assembly-programs)
 ## OOD/Software (Java)
- - [Interactive Animation GUI](https://github.com/sam-zlota/animation-gui)
+ - [Interactive Animation Editor](https://github.com/sam-zlota/animation-gui)
  - [Marble Solitaire Game](https://github.com/sam-zlota/marble-solitaire)
 
 
