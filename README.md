@@ -14,7 +14,8 @@
  - [Simple Assembly Programs](https://github.com/sam-zlota/assembly-programs)
 ## OOD/Software (Java)
  - [Interactive Animation Editor](https://github.com/sam-zlota/animation-gui)
- - [Marble Solitaire Game](https://github.com/sam-zlota/marble-solitaire)
+ - [Marble Solitaire Game, CLI](https://github.com/sam-zlota/marble-solitaire)
+ - [Minesweeper Game, GUI]()
 
 
 
