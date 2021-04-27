@@ -1,5 +1,5 @@
 # About Me
-Hi! I am Sam. I currently am an undergraduate at Northeastern University studying Computer Science with a concentration in Artificial Intelligence. I primarily use GitHub as a portfolio for my personal and school projects. Please check them out! You can contact me at zlota _dot_ s _at_ northeastern _dot_ edu. Cheers.
+Hi! I am Sam. I currently am an undergraduate at Northeastern University studying Computer Science with a concentration in Artificial Intelligence. I primarily use GitHub as a portfolio for my personal and school projects. Please check them out! You can contact me at (zlota _dot_ s _at_ northeastern _dot_ edu). Cheers.
 # Overview of Projects
 
 ## AI/ML (Python)
