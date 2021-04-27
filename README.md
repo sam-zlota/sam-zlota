@@ -17,7 +17,7 @@ Hi! I am Sam. I currently am an undergraduate at Northeastern University studyin
 ## OOD/Software (Java)
  - [Interactive Animation Editor](https://github.com/sam-zlota/animation-gui)
  - [Marble Solitaire Game, CLI](https://github.com/sam-zlota/marble-solitaire)
- - [Minesweeper Game, GUI]()
+ - [Minesweeper Game, GUI](https://github.com/sam-zlota/minesweeper)
 
 
 
