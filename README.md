@@ -2,6 +2,7 @@
 
 ## AI/ML (Python)
  - [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
+ - [Pacman AI Projects]
  - [COVID Lung Scan Classifier using CNNs](https://github.com/sam-zlota/covid-lung-scan-classifer)
  - [Spotify Song Popularity Predictor](https://github.com/sam-zlota/spotify-song-popularity-predictor)
 ## Systems Design(C, X86-64 Assembly)
