@@ -2,6 +2,9 @@
 Hi! I am Sam. I currently am an undergraduate at Northeastern University studying Computer Science with a concentration in Artificial Intelligence. I primarily use GitHub as a portfolio for my personal and school projects. Please check them out! You can contact me at (zlota _dot_ s _at_ northeastern _dot_ edu). Cheers.
 # Overview of Projects
 
+## Current Works in Progress (Python)
+- [Rubix Cube Solver](https://github.com/sam-zlota/rubix-cube)
+
 ## AI/ML (Python)
  - [MinimaxML Chess Engine](https://github.com/sam-zlota/chess-engine)
  - [COVID Lung Scan Classifier using CNNs](https://github.com/sam-zlota/covid-lung-scan-classifer)
